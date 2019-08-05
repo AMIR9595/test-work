@@ -1,0 +1,28 @@
+.block {
+    width: 40%;
+    margin: 0 auto;
+}
+.block h1 {
+    font-size: 14px;
+    color: black;
+    text-align: center;
+}
+.block img {
+    width: 300px;
+    padding-right: 10px;
+}
+.block p {
+    color: gray;
+    margin-bottom: 30px;
+}
+.block a {
+    border: 1px solid #121A2F;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+.block a:hover {
+    text-decoration: none;
+    background-color: #121A2F;
+    color: #fff;
+}
